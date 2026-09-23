@@ -103,7 +103,3 @@ Tab 3 always uses the full dataset for model training, independent of sidebar fi
 | Data Leakage Prevention | Dropped: Order_ID, Product_ID, User_ID, Order_Date, Return_Date, Return_Reason, Days_to_Return, Return_Cost, Profit_Loss, CO2_Saved, Waste_Avoided |
 
 ---
-
-## License
-
-MIT
